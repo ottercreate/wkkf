@@ -3,7 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 120 232" style="enable-background:new 0 0 120 232;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#CF7028;}
+	.st0{fill:#B75818;}
 	.st1{fill:url(#SVGID_1_);}
 	.st2{display:none;}
 	.st3{display:inline;}
@@ -16,7 +16,7 @@
 	<g id="Layer_1_1_">
 		<g id="Layer_3">
 			
-				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="33.8232" y1="-77.6917" x2="94.0072" y2="-136.9639" gradientTransform="matrix(1 0 0 -1 0 -53)">
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="33.8232" y1="869.6917" x2="94.0072" y2="928.9639" gradientTransform="matrix(1 0 0 1 0 -845)">
 				<stop  offset="0" style="stop-color:#FECF6E"/>
 				<stop  offset="1" style="stop-color:#F79F28"/>
 			</linearGradient>
